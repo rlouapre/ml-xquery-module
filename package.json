@@ -2,10 +2,7 @@
   "name": "test-xquery-module",
   "version": "0.0.1",
   "description": "Test XQuery Module manged by NPM",
-  "main": "index.js",
-  "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
-  },
+  "keywords" : ["marklogic", "xquery"],
   "author": "Richard Louapre",
   "license": "MIT"
 }
